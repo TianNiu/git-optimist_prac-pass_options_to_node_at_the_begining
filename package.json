@@ -1,0 +1,11 @@
+{
+  "name": "git-optimist_prac-pass_options_to_node_at_the_begining",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "optimist": "^0.6.1"
+  }
+}
